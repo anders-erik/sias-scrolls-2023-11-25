@@ -1,1 +1,14 @@
 MAKE SURE TO INSTALL NPM IN CONTAINER!!!
+
+
+
+
+### React Bootstrap
+https://react-bootstrap.netlify.app/docs/layout/grid#responsive-grids
+```
+<Row>
+        <Col md={{ span: 6, offset: 3 }}>
+			{`md={{ span: 6, offset: 3 }}`}
+		</Col>
+</Row>
+```
